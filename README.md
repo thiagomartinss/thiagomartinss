@@ -1,4 +1,4 @@
-## Olá meu nome é Thiago Martins e estou estudando sobre Front-end
+## Estudante de Front-end
 <!--
 <div align="center">
   <a href="https://github.com/thiagomartinss">
