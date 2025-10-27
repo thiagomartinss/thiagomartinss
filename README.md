@@ -134,29 +134,28 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thiagomartinss&show_icons=true&theme=dark&include_all_commits=false&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomartinss&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br style="clear: both;"/>
-<br/>
+<table>
+  <tr>
+    <td style="padding-right: 10px;">
+      <img 
+        alt="Estatísticas do GitHub de Thiago Martins" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=thiagomartinss&show_icons=true&theme=dark&include_all_commits=false&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Tecnologias mais usadas por Thiago Martins" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomartinss&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Projetos em Destaque
 
-Atualmente estou desenvolvendo este projeto de finalização do trimestre para a faculdade. Trata-se de um e-commerce com um backoffice completo, criado utilizando **Node.js**, **Bootstrap** e **MySQL**.
+Atualmente estou desenvolvendo este projeto de finalização do trimestre para a faculdade. Trata-se de um e-commerce com um backoffice completo para o setor de agronegócio, criado utilizando **Node.js**, **Bootstrap** e **MySQL**.
 
 [semear - Projeto Integrado 3° ADS - FIPP](https://github.com/thiagomartinss/semear)
 
