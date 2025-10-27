@@ -135,7 +135,7 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 ### 📊 Estatísticas
 
 <table style="border: none;">
-  <tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 0; padding-right: 10px;">
       <img 
         alt="Estatísticas do GitHub de Thiago Martins" 
