@@ -6,7 +6,9 @@
 ### Olá 👋
 
 Tenho 34 anos e sou um profissional da área de tecnologia, formado em Gestão da TI e atualmente cursando Análise e Desenvolvimento de Sistemas na FIPP/Unoeste.
+
 Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos. Meu objetivo é usar minhas habilidades para criar soluções que façam a diferença na vida das pessoas e tragam um impacto positivo.
+
 Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto social positivo, pois meu maior motivador é desenvolver soluções que melhorem o dia a dia e tragam satisfação aos usuários.
 
 
@@ -134,16 +136,16 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 
 ### 📊 Estatísticas
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0; padding-right: 10px;">
+<table>
+  <tr>
+    <td>
       <img 
         alt="Estatísticas do GitHub de Thiago Martins" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=thiagomartinss&show_icons=true&theme=dark&include_all_commits=false&locale=pt-br" 
       />
     </td>
-    <td style="border: none; padding: 0;">
+    <td>
       <img 
         alt="Tecnologias mais usadas por Thiago Martins" 
         height="200" 
