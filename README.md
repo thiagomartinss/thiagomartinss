@@ -134,7 +134,7 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 
 ### 📊 Estatísticas
 
-<table>
+<table style="border: none;">
   <tr>
     <td style="border: none; padding: 0; padding-right: 10px;">
       <img 
@@ -157,7 +157,7 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 
 Atualmente estou desenvolvendo este projeto de finalização do trimestre para a faculdade. Trata-se de um e-commerce com um backoffice completo para o setor de agronegócio, criado utilizando **Node.js**, **Bootstrap** e **MySQL**.
 
-[semear - Projeto Integrado 3° ADS - FIPP](https://github.com/thiagomartinss/semear)
+[SIGVA - Sistema de Gerenciamento de Vendas de Agronegócio (Projeto Semear)](https://github.com/thiagomartinss/SIGVA)
 
 **Funções principais do sistema:**
 * Gerenciamento (CRUD) de clientes, produtos, serviços e marcas;
