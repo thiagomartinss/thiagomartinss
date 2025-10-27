@@ -136,24 +136,18 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
+<p>
       <img 
         alt="Estatísticas do GitHub de Thiago Martins" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=thiagomartinss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
       />
-    </td>
-    <td>
       <img 
         alt="Tecnologias mais usadas por Thiago Martins" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomartinss&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
       />
-    </td>
-  </tr>
-</table>
+</p>
 
 ### 🚀 Projetos em Destaque
 
