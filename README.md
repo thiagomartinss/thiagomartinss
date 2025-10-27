@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos. Me
 
 Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto social positivo, pois meu maior motivador é desenvolver soluções que melhorem o dia a dia e tragam satisfação aos usuários.
 
-
+<br/>
 <div>
     <a href = "mailto:thiagomartinsdsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/othiago_martins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
