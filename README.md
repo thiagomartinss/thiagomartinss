@@ -95,8 +95,8 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
     alt="GitHub" 
     title="GitHub"
     width="30px" 
-    style="padding-right: 10px; filter: invert(100%);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/github/FFFFFF" 
 />
 <img 
     align="left" 
