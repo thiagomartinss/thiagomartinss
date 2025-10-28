@@ -152,6 +152,7 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
   />
 
 </p>
+<div></div>
 ---
 ### 🚀 Projeto em Destaque
 
