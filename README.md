@@ -133,7 +133,9 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 
 <br/>
 <br/>
+
 ---
+
 ### 🚀 Projeto em Destaque
 
 Atualmente estou desenvolvendo este projeto de finalização do trimestre para a faculdade. Trata-se de um e-commerce com um backoffice completo para o setor de agronegócio, criado utilizando **Node.js**, **Bootstrap** e **MySQL**.
