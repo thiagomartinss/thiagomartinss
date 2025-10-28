@@ -9,7 +9,7 @@ Tenho 34 anos e sou um profissional da área de tecnologia, formado em Gestão d
 
 Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos. Meu objetivo é usar minhas habilidades para criar soluções que façam a diferença na vida das pessoas e tragam um impacto positivo.
 
-Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto social positivo, pois meu maior motivador é desenvolver soluções que melhorem o dia a dia e tragam satisfação aos usuários.
+Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto positivo, pois minha maior motivação é desenvolver soluções que melhorem o dia a dia e tragam satisfação aos usuários.
 
 <br/>
 <div>
