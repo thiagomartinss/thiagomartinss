@@ -138,15 +138,14 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 
 ### 🚀 Projeto em Destaque
 
-Atualmente estou desenvolvendo este projeto de finalização do trimestre para a faculdade. Trata-se de um e-commerce com um backoffice completo para o setor de agronegócio, criado utilizando **Node.js**, **Bootstrap** e **MySQL**.
+Atualmente estou desenvolvendo este projeto de finalização do trimestre para a faculdade. 
+Trata-se de um e-commerce com um backoffice para o setor de agronegócio, criado utilizando **Node.js**, **Bootstrap** e **MySQL**.
 
-[SIGVA - Sistema de Gerenciamento de Vendas de Agronegócio (Projeto Semear)](https://github.com/thiagomartinss/SIGVA)
+[SIGVA - Sistema de Gerenciamento de Vendas de Agronegócio (Projeto Semear)](c)
 
 **Funções principais do sistema:**
 * Gerenciamento (CRUD) de clientes, produtos, serviços e marcas;
 * Upload de fotos dos produtos;
 * Carrinho de compras;
 * Emissão de relatórios;
-* Abertura e fechamento de ordens de serviço;
-* Gerenciamento de contas a receber;
-* Gerenciamento de compras, vendas e suas devoluções.
+* Abertura e fechamento de ordens de serviço.
