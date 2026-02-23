@@ -138,7 +138,7 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
 
 ### 🚀 Projeto em Destaque
 
-Atualmente estou desenvolvendo este projeto de finalização do trimestre para a faculdade. 
+Último projeto desenvolvido para finalização do trimestre para a faculdade. 
 Trata-se de um e-commerce com um backoffice para o setor de agronegócio, criado utilizando **Node.js**, **Bootstrap** e **MySQL**.
 
 [SIGVA - Sistema de Gerenciamento de Vendas de Agronegócio (Projeto Semear)](c)
