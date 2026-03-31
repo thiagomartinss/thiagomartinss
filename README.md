@@ -131,21 +131,4 @@ Busco atuar em projetos onde a tecnologia é usada como ferramenta para impacto 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
-<br/>
-<br/>
 
----
-
-### 🚀 Projeto em Destaque
-
-Último projeto desenvolvido para finalização do trimestre para a faculdade. 
-Trata-se de um e-commerce com um backoffice para o setor de agronegócio, criado utilizando **Node.js**, **Bootstrap** e **MySQL**.
-
-[SIGVA - Sistema de Gerenciamento de Vendas de Agronegócio (Projeto Semear)](c)
-
-**Funções principais do sistema:**
-* Gerenciamento (CRUD) de clientes, produtos, serviços e marcas;
-* Upload de fotos dos produtos;
-* Carrinho de compras;
-* Emissão de relatórios;
-* Abertura e fechamento de ordens de serviço.
